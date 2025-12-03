@@ -28,3 +28,9 @@ dist/
 *.log
 .tmp/
 src/config/
+
+data/
+*.nc
+*.csv
+*.zip
+*.tar.gz
